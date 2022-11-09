@@ -1,0 +1,74 @@
+* {padding: 0; margin: 0;}
+
+body {
+    background: #fab1a0; margin-top: 25px;
+}
+header {width: 900px; background:#ff7675;padding: 25px;
+    margin: auto;
+text-align: center;
+color: #2d3436;
+}
+
+menu {
+    width: 900px; background: #d63031; margin:auto; 
+    padding: 25px;
+}
+
+menu a {
+    color: #81ecec; 
+    margin: 0 20px 0 0;
+    
+}
+
+menu a:hover {
+    color: floralwhite;
+}
+
+article {
+    width: 900px; background: #fd79a8;
+    margin: auto; padding: 25px;
+    text-align: justify;
+}
+
+article img {
+    float: left;
+    width: 350px; height: 250px;
+    margin: 0 25px 15px 0;
+}
+
+article h1 {
+    margin: 0 0 15px 0;
+}
+
+footer {
+    width: 900px; background: #ff6348;
+    padding: 25px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+article p {
+    margin: 0 0 25px 0;
+}
+
+.makanan {
+    text-align: center;
+    font-size: 35px;
+}
+
+.jawaban {
+    width: 900px; height: 20px;
+    text-align: center;
+    background: deeppink;
+}
+
+.ikan {
+    width: 900px; padding: 25px;
+    margin-left: -25px;
+    margin-bottom: -25px;
+    text-align: center;
+    font-weight: bold;
+    background: darkorchid;
+}
